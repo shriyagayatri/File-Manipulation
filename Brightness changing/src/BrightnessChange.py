@@ -2,7 +2,7 @@ from PIL import Image
 
 image = Image.open("colourful.jpg")
 
-# image.point creates new copy
+# image.point creates a new copy of the original image
 
 image.point(lambda x: x*0.1).save("darkest.jpg")
 image.point(lambda x: x*0.5).save("darker.jpg")
