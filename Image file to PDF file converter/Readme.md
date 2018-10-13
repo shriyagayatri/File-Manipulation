@@ -2,4 +2,4 @@
 
 :dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2::dog2:
 
-Created with love :dog2:
+Created with love :dog2: :blue_heart:
