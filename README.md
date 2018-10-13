@@ -1,2 +1,2 @@
-# File-Manipulation using Pillow
+# Image Manipulation using Pillow
 
